@@ -95,5 +95,3 @@ function transferTicket(uint id, uint quantity, address to) external {
 This project is licensed under the GPL-3.0 License.
 
 ---
-
-Feel free to modify this README to better suit your project's needs or to provide additional details!
